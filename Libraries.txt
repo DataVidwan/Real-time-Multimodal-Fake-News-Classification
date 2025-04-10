@@ -1,0 +1,12 @@
+pip install torch torchvision torchaudio
+pip install transformers
+pip install opencv-python
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install tqdm
+pip install pillow
+pip install tensorflow
+pip install jupyter  # if you want to run the notebook inside VSCode
